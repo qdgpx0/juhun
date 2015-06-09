@@ -1,0 +1,38 @@
+
+#pageslide {
+    /* These styles MUST be included. Do not change. */
+    display: none;
+    position: absolute;
+    position: fixed;
+    top: 0;
+    height: 100%;
+    z-index: 999999;
+    
+    /* Specify the width of your pageslide here */
+    width: 260px;
+   /* padding: 20px;*/
+    
+    /* These styles are optional, and describe how the pageslide will look */
+    background-color: #FFF;
+    color: #333;
+
+	box-shadow: 4px 7px 7px 2px #222;
+	
+	width:700px;
+}
+
+
+
+
+.tcc-top{height:60px;background:#F9F9F7;line-height:60px;border-bottom:1px solid #DDD;}
+#modal { display: none; }
+
+             
+.sxsylui{color: #646B75;}
+.tcc-head span{ font-size:14px;font-family:"微软雅黑";color:#646B75;}
+.tcc-head i{ font-size:14px;padding:0 10px;margin-left:10px;}
+.chahao{height:40px;width:40px;float:right;text-align:center;color: #333; font-weight: bold; border: none;}
+.chahao i{font-size:15px;color:#646B75;}
+.sxsy-ul{list-style:none;float:right;margin-right:30px;}
+.sxsy-ul li{float:left;padding:0 20px;background:none;}
+.sxsy-ul li a{color:#8A959E}
